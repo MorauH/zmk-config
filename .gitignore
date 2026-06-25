@@ -1,2 +1,11 @@
 
 .zmk/
+.zmk-workspace/
+*.uf2
+.west/
+zmk/
+zephyr/
+modules/
+tools/
+bootloader/
+build/
